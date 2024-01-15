@@ -9,6 +9,9 @@
 ![HTML5](https://img.shields.io/badge/HTML5-e34c26)
 ![CSS3](https://img.shields.io/badge/CSS3-1572b6)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4.0+-47a248)
+![Django](https://img.shields.io/badge/Django-3.0+-092E20)
+![Django REST Framework](https://img.shields.io/badge/DRF-3.12+-008891)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-336791)
 
 <!--
 **phillipakhn/phillipakhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
